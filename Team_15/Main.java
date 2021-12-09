@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Version 2, minor updates");
 
         System.out.println("Member 1");
+        System.out.println("Member 2");
     }
 }
