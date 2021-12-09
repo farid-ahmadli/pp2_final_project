@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello, this is team 15!");
 
         System.out.println("Version 2, minor updates");
+
+        System.out.println("Member 2");
     }
 }
